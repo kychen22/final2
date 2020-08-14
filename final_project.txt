@@ -1,0 +1,44 @@
+
+Directions:
+
+You will use the HTML, CSS, and Javascript skills that you have learned to create a personal website for yourself
+
+Your website will consist of 3 files
+- index.html
+- style.css
+- script.js
+
+These files will be linked together in your HTML file and work together to render your website
+
+Ideas for information to put on your website:
+- Your fullname
+- A picture of yourself
+- What school you go to
+- What grade/year in school you are
+- Your phone number and/or email
+- A short bio about yourself
+- Your hobbies and interests
+- Your extra-curricular activities
+- Your achievements and awards
+- Other information about things you're interested in and passionate aboute
+- some cool interactive elements for the user to play with so you can show off your javascript understanding
+
+Style your website however you wish to express yourself and display your information (but try to use as many different html tags and styling options as you can!)
+
+After you're finished building your website, you will upload this onto your github account in a new repository
+- create a repository on github
+- navigate to where you want that repository to live on your computer
+- initiate your respository on your computer
+- git diff
+- git add .
+- git status
+- git commit -m "<your message>"
+- git push
+
+Go to your repository on github and verify that your code has been added to your repository
+
+Go to settings of your repository
+
+Scroll down to "GitHub Pages" and enable. 
+
+Github should then create for you a link so that you can view your website and share the link with your friends and family.
